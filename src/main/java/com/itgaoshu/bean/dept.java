@@ -17,4 +17,6 @@ package com.itgaoshu.bean;
 public class dept {
     private  int id;
     private  String name;
+
+    
 }
